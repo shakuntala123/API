@@ -7,5 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Building http server in nodejs",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
 }
