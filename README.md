@@ -1,5 +1,5 @@
 # API
-#User Management API
+# User Management API
  - This project is a simple Node.js and Express.js REST API for managing users.
 - It uses MOCK_DATA.json as a mock database to perform CRUD (Create, Read, Update, Delete) operations on user data.
 - The API includes endpoints to fetch, create, update, and delete users, along with an HTML page to display the list of users.
